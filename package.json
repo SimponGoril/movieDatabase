@@ -45,7 +45,7 @@
   },
   "scripts": {
     "start": "webpack serve --mode=development --open",
-    "build": "rimraf dist && npm run lint && webpack --config webpack.config.js",
+    "build": "rimraf dist && yarn lint && webpack --config webpack.config.js",
     "test": "jest",
     "lint": "tslint -p tsconfig.json"
   },

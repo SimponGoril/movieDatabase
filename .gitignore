@@ -2,3 +2,12 @@ node_modules
 .vscode/
 .idea/
 dist/
+api.d.ts
+src/index.d.ts
+.DS_Store
+src/components/movieDetail.d.ts
+src/components/movieDetail.test.d.ts
+src/components/moviesList.d.ts
+src/types/movies.d.ts
+src/utils/moviesService.d.ts
+src/views/main.d.ts
